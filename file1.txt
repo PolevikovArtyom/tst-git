@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+
 testing git
+=======
+some text
+>>>>>>> 2de28387776be2ae2fafeea56f48254a19ab4fed
